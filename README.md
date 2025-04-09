@@ -1,4 +1,4 @@
-# Wynkmusic-clone
+
 # 🎧 Wynk Music Clone 🎵
 
 A full-stack web application inspired by Wynk Music, allowing users to stream songs, manage their playlist, and sign up for a personalized experience.
